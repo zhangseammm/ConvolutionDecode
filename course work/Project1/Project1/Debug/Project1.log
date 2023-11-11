@@ -1,0 +1,7 @@
+﻿  test.cpp
+c:\users\admin\desktop\course work\project1\project1\test.cpp(38): warning C4326: “main”的返回类型应为“int”而非“void”
+c:\users\admin\desktop\course work\project1\project1\test.cpp(485): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\desktop\course work\project1\project1\test.cpp(486): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\desktop\course work\project1\project1\test.cpp(487): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\desktop\course work\project1\project1\test.cpp(488): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> C:\Users\admin\Desktop\course work\Project1\Debug\Project1.exe
